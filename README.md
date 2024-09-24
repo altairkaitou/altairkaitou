@@ -5,8 +5,8 @@
 I'm a computer engineering student who is passionate about writing code, solving problems, automating stuff, and building software.
 
 - 🔭 I’m currently a CE student at Bach Khoa University (University of Technology).
-- 📚 I’m currently learning OOP Stuff, Python and C# languages.
-- 👯 I’m looking for a software development internship. 
+- 📚 I’m currently learning Back-End work with Nodejs, Microcontroller-Microprocessor and learn more Python and Java languages.
+- 👯 I’m looking for a software or hardware development internship. 
 - 📫 How to reach me: [FACEBOOK](https://www.facebook.com/bao.leminh.315) [Gmail](mailto:leminhgiabao@gmail.com)
 
 ⭐️ From [altairkaitou](https://github.com/altairkaitou)
