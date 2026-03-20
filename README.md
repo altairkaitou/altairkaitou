@@ -7,10 +7,10 @@
 ---
 
 ## 🧑‍💻 About Me
-
+- 🎓 I recently graduated and while I may not have extensive experience yet, I have a strong willingness to learn and continuously improve myself.  
+- 🚀 I am committed to growing in this field, constantly learning new technologies, and doing my best to become a better engineer.
 I’m a Computer Engineering graduate from Bach Khoa University with hands-on experience in backend development, APIs, and system design.
-🎓 I recently graduated and while I may not have extensive experience yet, I have a strong willingness to learn and continuously improve myself.  
-🚀 I am committed to growing in this field, constantly learning new technologies, and doing my best to become a better engineer.
+
 
 
 * 🔧 Experienced in building RESTful APIs and backend systems
