@@ -19,9 +19,6 @@ I’m a Computer Engineering graduate from Bach Khoa University (HCMUT) with han
 
 ---
 
-## 🧠 LeetCode Stats
-![LeetCode Stats](https://leetcard.jacoblin.cool/deadbkun?theme=dark&font=Baloo&ext=heatmap)
-
 ## 🛠️ Tech Stack
 
 **Languages:**
@@ -63,6 +60,9 @@ I’m a Computer Engineering graduate from Bach Khoa University (HCMUT) with han
 - Practiced CRUD operations and RESTful design  
 
 ---
+
+## 🧠 LeetCode Stats
+![LeetCode Stats](https://leetcard.jacoblin.cool/deadbkun?theme=dark&font=Baloo&ext=heatmap)
 
 ## 🎯 Career Goals
 I’m currently expanding my skills toward **Fullstack Development**, building both backend systems and modern frontend applications.
