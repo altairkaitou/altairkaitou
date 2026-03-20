@@ -1,7 +1,7 @@
 👋 Hi, I'm Minh Bao
 🚀 Backend Developer | Aspiring Fullstack Engineer
 
-I’m a Computer Engineering graduate from Bach Khoa University with hands-on experience in backend development, APIs, and system design.
+I’m a Computer Engineering graduate from Bach Khoa University (HCMUT) with hands-on experience in backend development, APIs, and system design.
 
 <img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
 
