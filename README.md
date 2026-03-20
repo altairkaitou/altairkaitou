@@ -19,6 +19,9 @@ I’m a Computer Engineering graduate from Bach Khoa University (HCMUT) with han
 
 ---
 
+## 🧠 LeetCode Stats
+![LeetCode Stats](https://leetcard.jacoblin.cool/deadbkun?theme=dark&font=Baloo&ext=heatmap)
+
 ## 🛠️ Tech Stack
 
 **Languages:**
